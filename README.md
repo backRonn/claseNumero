@@ -1,2 +1,0 @@
-# claseNumero
-Clase numeros
